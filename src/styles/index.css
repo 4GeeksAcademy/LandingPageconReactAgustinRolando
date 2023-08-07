@@ -10,3 +10,32 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card{
+    width: 18rem;
+    margin: 20px;
+
+}
+.grupocard{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.jumbotron{
+    background-color: lightgray;
+    margin-top: 20px;
+    margin-right: 300px;
+    margin-left: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+.boton{
+    display: flex;
+    justify-content: flex-start;
+}
